@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Building a Wireframe</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <section id="header">
+        header
+    </section>
+
+    <section id="nav">
+        nav
+    </section>
+
+    <section id="section">
+        section
+
+        <section id="article">
+            article
+
+            <section id="headers">
+                h1, h2, h3
+            </section>
+
+            <section id="paragraphs">
+                p
+            </section>
+        </section>
+
+    </section>
+
+    <section id="aside">
+        aside
+    </section>
+
+    <section id="footer">
+        footer
+    </section>
+
+    <footer>
+
+    </footer>
+</body>
+
+</html>
